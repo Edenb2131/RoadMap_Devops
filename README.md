@@ -39,3 +39,9 @@ This repository includes projects involving:
 ## 🤝 Contributions
 Feel free to explore, fork, and contribute to this repository. Feedback is always welcome!
 
+
+
+## 📈 Projects That I Finished
+1. Server Performance Stats: https://roadmap.sh/projects/server-stats
+
+
