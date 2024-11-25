@@ -18,5 +18,5 @@ This project aims to create a bash script (`server-stats.sh`) that analyzes and 
 ## ⚙️ Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/you/edenb2131/devops-learning.git
-   cd devops-learning/server-stats
+   git clone https://github.com/Edenb2131/RoadMap_Devops.git
+   cd RoadMap_Devops
